@@ -8,9 +8,9 @@ BookATable Project is a web application that  allows the users to book a table i
 ![BookATable ](https://github.com/Lubna-BinSalem/Java_FinalProject/blob/main/BookATable.png)
 
 
-### Postman
+# Postman
 https://documenter.getpostman.com/view/22738330/VUqvoEAQ
 
-### Heroku
+# Heroku
 https://book-a-table-demo.herokuapp.com/
 
