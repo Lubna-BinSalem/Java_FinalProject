@@ -1,6 +1,6 @@
 # BookATable project
 
-# Introduction of the project:
+# Project Introduction:
 
 BookATable Project is a web application that  allows the users to book a table in a restaurant, the user will be able to also post and look at images of the restaurant, as well as reading and leaving reviews with rating to further help in promoting or making a restaurant less popular.
 
